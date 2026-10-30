@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explainer Videos"
+  short_description: "Turn agent work into clear, evidence-based videos"
+  default_prompt: "Use $explainer-videos to turn this work into a concise visual explanation."

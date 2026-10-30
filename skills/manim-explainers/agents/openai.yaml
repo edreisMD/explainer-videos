@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manim Explainers"
+  short_description: "Animate concepts with clear Manim diagrams"
+  default_prompt: "Use $manim-explainers to explain this concept with animated diagrams."

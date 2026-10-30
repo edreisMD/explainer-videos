@@ -1,0 +1,4 @@
+interface:
+  display_name: "Screen Demo Explainers"
+  short_description: "Explain software through real screen demonstrations"
+  default_prompt: "Use $screen-demo-explainers to demonstrate what changed and how to use it."
